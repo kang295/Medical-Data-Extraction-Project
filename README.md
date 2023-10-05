@@ -1,1 +1,1 @@
-# Medical_Data_Extraction_Project
+# Medical Data Extraction Project
